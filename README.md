@@ -3,7 +3,7 @@ I started to learn HTML and CSS in 2022. Even though I am not intended to be a f
 
 # File Structure
 00. Project Name
-  |- css
+  |- css<br/>
   |   |- .css files
   |
   |- img
